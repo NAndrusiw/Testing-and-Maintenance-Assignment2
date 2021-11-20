@@ -1,0 +1,36 @@
+Assignment #2 changeLog putchaseOrder.js
+
+line #		logged Change
+
+69		// EC TEST added module.exports
+
+71		//EC TEST added module.exports
+
+75		//EC TEST had to edit to if(factor3 == 0). original: if (factor3 = 0)
+
+116		//EC TEST changed from > to < to represent the functional requirements outlined in the assignment
+
+
+128		//EC TEST change <= to <
+
+140		//EC TEST changed < to >=
+
+161		//EC TEST changed != to ===
+
+173		//EC TEST chenged pStatus !="limited" to pStatus === "limited"
+
+174		//EC TEST chenged pStatus != "available" to pStatus === "available"
+
+
+5		// BOUNDARY TEST changed from > 90 to >= 90
+
+38		// BOUNDARY TEST changed from > 3000 to >= 3000
+
+102		// BOUNDARY TEST changed from > 100 to >= 100
+
+	
+
+136		// BOUNDARY TEST, replace q == 0 with q <= 0
+
+
+
